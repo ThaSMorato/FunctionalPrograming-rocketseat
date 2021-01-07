@@ -1,5 +1,5 @@
 # Rocketseat Workshop 2020 - Curry, aplicação parcial e composição de funções - codigo original: https://github.com/rodrigobotti/rs-ws-2020-fp
-
+//point-free style
 Nesse workshop vamos aprender sobre _higher order functions_, _curry_, _aplicação parcial_ 
 e como essas técnicas de programação funcional facilitam _composição de funções_.
 
